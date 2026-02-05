@@ -1,4 +1,4 @@
-# Awesome ML paper writing style guide
+# Awesome ML Conference paper writing style guide
 
 A curated guide to ML paper writing style guide — structure, style, examples, checklists, and templates for [NeurIPS](https://www.overleaf.com/latex/templates/neurips-2024/tpsbbrdqcmsh.pdf) / [ICML](https://www.overleaf.com/latex/templates/icml2025-template/dhxrkcgkvnkt.pdf) / [ICLR](https://www.overleaf.com/latex/templates/template-for-iclr-2025-conference-submission/gqzkdyycxtvt.pdf) / [ACL](https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj.pdf) / [AAAI](https://www.overleaf.com/latex/templates/aaai-press-latex-template/jymjdgdpdmxp.pdf) / [CVPR](https://www.overleaf.com/latex/templates/cvpr-2022-author-kit/qbmjsdxryffn.pdf) (and beyond).
 
