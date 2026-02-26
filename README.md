@@ -84,6 +84,24 @@ A curated guide to ML paper writing style guide — structure, style, examples, 
    - **CVPR:** Limitations **not required** (encouraged to discuss); no dedicated ethics section — add **IRB/ethics note** if applicable (paper or supplementary).  
    - **AAAI:** Limitations **not required**; Ethics statement **optional** (unnumbered, before acknowledgments/references, counts as content).  
 
+## Contributing
+
+Please read the [contributing.md](contributing.md) before submitting a pull request.
+
+## Citation
+
+If you find this repository useful, please consider citing it as:
+
+```bibtex
+@misc{sarwar2026awesome-ml-style-guide,
+  author       = {Sarwar, Nobin},
+  title        = {{Awesome ML Conference Paper Writing Style Guide}},
+  year         = {2026},
+  howpublished = {\url{https://github.com/smsnobin77/awesome-ML-conference-paper-writing-style-guide}},
+  note         = {GitHub repository}
+}
+```
+
 ## License
 
 This project is dedicated to the public domain under the Creative Commons CC0 1.0 Universal license.
