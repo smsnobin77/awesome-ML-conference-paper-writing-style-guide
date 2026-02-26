@@ -1,16 +1,16 @@
-# Awesome ML Conference paper writing style guide
+# Awesome ML Conference Paper Writing Style Guide
 
 A curated guide to ML paper writing style guide — structure, style, examples, checklists, and templates for NeurIPS / ICML / ICLR / ACL / AAAI / CVPR (and beyond).
 
 ## Table of contents
-- [Writing](#writing)
-- [Reference](#reference)
-- [Figures and tables](#figures-and-tables)
-- [LaTeX requirements](#latex-requirements)
-- [Limitations and ethics](#limitations-and-ethics)
+- [Structural and Formatting Rules](#Structural-and-Formatting-Rules)
+- [Citations and References](#Citations-and-References)
+- [Figures and Tables](#Figures-and-Tables)
+- [LaTeX and Formatting Requirements](#LaTeX-and-Formatting-Requirements)
+- [Limitations and Ethics Statements](#Limitations-and-Ethics-Statements)
 - [Conference Templates](#Conference-Templates)
 
-## Writing
+## Structural and Formatting Rules
 
 1. **Heading capitalization**
    - **NeurIPS**: All headings should be **lower case** (a.k.a. sentence case, down style) — except for the first word and proper nouns — flush left, and bold. *Example:* Methodology and results
@@ -28,7 +28,7 @@ A curated guide to ML paper writing style guide — structure, style, examples, 
    - **ICLR**: Submission: main text ≤ 9 pages. During discussion & camera-ready: main text limit increases to 10 pages. References do not count; over-limit is desk-rejected. Appendix allowed and unlimited (Same as NeurIPS).
    - **AAAI**: Up to 7 pages of technical content, plus additional pages solely for references (submission). Proceedings allocation remains 7 content pages (+refs). AAAI allows a technical appendix during review, but for camera-ready the supplementary is not included in AAAI’s proceedings. 
 
-## Reference
+## Citations and References
 
 **Where to put citations:**
    - If you name the authors … “Smith et al. (2024) …”
@@ -38,7 +38,7 @@ A curated guide to ML paper writing style guide — structure, style, examples, 
      - Be **consistent** (style, ordering, and format) within the paper.
      - **Cite close to the claim**: place the citation right where the reader needs it—after the author name (textual) or after the claim (parenthetical). If a sentence mixes multiple claims/sources, split it.
     
-## Figures and tables
+## Figures and Tables
 
 **Caption conventions:**
    - **ACL/AAAI:** captions **below** both figures and tables.
@@ -46,7 +46,7 @@ A curated guide to ML paper writing style guide — structure, style, examples, 
    - **Tips**
         - When in doubt, follow the **current year’s** official template/author kit for that venue. Some details can change year to year.
 
-## LaTeX requirements
+## LaTeX and Formatting Requirements
 - **NeurIPS**:
 	- Citations: natbib is loaded by default; you can opt-out with \usepackage[nonatbib]{neurips_2024} (the nonatbib option). 
 	- Tables: strongly recommend booktabs. 
@@ -77,7 +77,7 @@ A curated guide to ML paper writing style guide — structure, style, examples, 
 	- Fonts: Times/Nimbus for text (no Computer Modern for body text). 
 	- BST: use aaai.bst.
 
-## Limitations and ethics
+## Limitations and Ethics Statements
 
    - **ACL:** Limitations **required** (before references, not counted); Ethics **optional** (before references, not counted).  
    - **ICLR:** Limitations **not required**; Ethics statement **optional/encouraged** (before references, not counted).  
