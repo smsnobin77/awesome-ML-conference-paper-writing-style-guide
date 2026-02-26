@@ -85,5 +85,5 @@ A curated guide to ML paper writing style guide — structure, style, examples, 
    - **AAAI:** Limitations **not required**; Ethics statement **optional** (unnumbered, before acknowledgments/references, counts as content).  
 
 ## License
-- Code: MIT
-- Docs & images: CC BY-NC 4.0
+
+This project is dedicated to the public domain under the Creative Commons CC0 1.0 Universal license.
