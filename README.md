@@ -47,6 +47,7 @@ A curated guide to ML paper writing style guide — structure, style, examples, 
         - When in doubt, follow the **current year’s** official template/author kit for that venue. Some details can change year to year.
 
 ## LaTeX and Formatting Requirements
+
 - **NeurIPS**:
 	- Citations: natbib is loaded by default; you can opt-out with \usepackage[nonatbib]{neurips_2024} (the nonatbib option). 
 	- Tables: strongly recommend booktabs. 
@@ -86,6 +87,9 @@ A curated guide to ML paper writing style guide — structure, style, examples, 
    - **AAAI:** Limitations **not required**; Ethics statement **optional** (unnumbered, before acknowledgments/references, counts as content).  
 
 ## Conference Templates
+
+Official LaTeX templates for major ML conferences, ensuring consistent formatting and compliance.
+
 - [NeurIPS](https://www.overleaf.com/latex/templates/neurips-2024/tpsbbrdqcmsh)
 - [ICML](https://www.overleaf.com/latex/templates/icml2025-template/dhxrkcgkvnkt)
 - [ICLR](https://www.overleaf.com/latex/templates/template-for-iclr-2025-conference-submission/gqzkdyycxtvt)
