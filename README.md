@@ -1,6 +1,6 @@
 # Awesome ML Conference paper writing style guide
 
-A curated guide to ML paper writing style guide — structure, style, examples, checklists, and templates for [NeurIPS](https://www.overleaf.com/latex/templates/neurips-2024/tpsbbrdqcmsh.pdf) / [ICML](https://www.overleaf.com/latex/templates/icml2025-template/dhxrkcgkvnkt.pdf) / [ICLR](https://www.overleaf.com/latex/templates/template-for-iclr-2025-conference-submission/gqzkdyycxtvt.pdf) / [ACL](https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj.pdf) / [AAAI](https://www.overleaf.com/latex/templates/aaai-press-latex-template/jymjdgdpdmxp.pdf) / [CVPR](https://www.overleaf.com/latex/templates/cvpr-2022-author-kit/qbmjsdxryffn.pdf) (and beyond).
+A curated guide to ML paper writing style guide — structure, style, examples, checklists, and templates for NeurIPS / ICML / ICLR / ACL / AAAI / CVPR (and beyond).
 
 ## Table of contents
 - [Writing](#writing)
@@ -8,6 +8,7 @@ A curated guide to ML paper writing style guide — structure, style, examples, 
 - [Figures and tables](#figures-and-tables)
 - [LaTeX requirements](#latex-requirements)
 - [Limitations and ethics](#limitations-and-ethics)
+- [Conference Templates](#Conference-Templates)
 
 ## Writing
 
@@ -83,6 +84,14 @@ A curated guide to ML paper writing style guide — structure, style, examples, 
    - **NeurIPS:** Limitations **optional/encouraged**; no dedicated ethics section — **mandatory paper checklist** appears after references (not counted).  
    - **CVPR:** Limitations **not required** (encouraged to discuss); no dedicated ethics section — add **IRB/ethics note** if applicable (paper or supplementary).  
    - **AAAI:** Limitations **not required**; Ethics statement **optional** (unnumbered, before acknowledgments/references, counts as content).  
+
+## Conference Templates
+- [NeurIPS](https://www.overleaf.com/latex/templates/neurips-2024/tpsbbrdqcmsh)
+- [ICML](https://www.overleaf.com/latex/templates/icml2025-template/dhxrkcgkvnkt)
+- [ICLR](https://www.overleaf.com/latex/templates/template-for-iclr-2025-conference-submission/gqzkdyycxtvt)
+- [ACL](https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj)
+- [AAAI](https://www.overleaf.com/latex/templates/aaai-press-latex-template/jymjdgdpdmxp)
+- [CVPR](https://www.overleaf.com/latex/templates/cvpr-2026-submission-template/rdtrwgypxxzb)
 
 ## Contributing
 
