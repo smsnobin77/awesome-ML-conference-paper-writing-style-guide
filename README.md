@@ -119,8 +119,6 @@ If you find this repository useful, please consider citing it as:
 
 This project is dedicated to the public domain under the Creative Commons CC0 1.0 Universal license.
 
----
-
 <div align="center">
 
 	<b>⭐ If you find this repository useful, please consider starring it! ⭐</b>
