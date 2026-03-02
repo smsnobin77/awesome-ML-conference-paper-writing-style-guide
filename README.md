@@ -123,7 +123,7 @@ This project is dedicated to the public domain under the Creative Commons CC0 1.
 
 <div align="center">
 
-	**⭐ If you find this repository useful, please consider starring it! ⭐**
+	<b>⭐ If you find this repository useful, please consider starring it! ⭐</b>
 	
 	[![GitHub stars](https://img.shields.io/github/stars/smsnobin77/awesome-ML-conference-paper-writing-style-guide?style=social)](https://github.com/smsnobin77/awesome-ML-conference-paper-writing-style-guide)
 	[![GitHub forks](https://img.shields.io/github/forks/smsnobin77/awesome-ML-conference-paper-writing-style-guide?style=social)](https://github.com/smsnobin77/awesome-ML-conference-paper-writing-style-guide)
