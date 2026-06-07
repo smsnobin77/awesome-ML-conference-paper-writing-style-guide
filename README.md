@@ -56,7 +56,7 @@ A curated guide to ML paper writing style guide — structure, style, examples, 
 - **ACL**:
 	- Base fonts: \usepackage{times}; txfonts/newtx acceptable alternatives. 
 	- Figures: use graphicx. 
-	- Citations: style is based on natbib (supports \citet, \citep, etc.). 
+	- **Citations**: style is based on natbib (supports \citep -> (Gusfield, 1997), \citealp -> (Gusfield, 1997), \citet -> Gusfield (1997), \citeyearpar -> (1997), \citeposs -> Gusfield’s (1997) etc.).  
 	- Hyperlinks: DOIs/URLs appear as hyperlinks (uses hyperref). 
 	- BST: ships an ACL bibliography style (acl_natbib.bst). 
 - **CVPR**:
