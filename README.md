@@ -67,6 +67,7 @@ A curated guide to ML paper writing style guide — structure, style, examples, 
 **Caption conventions:**
    - **ACL/AAAI:** captions **below** both figures and tables.
    - **NeurIPS/ICML/ICLR/CVPR/WACV:** figures → **below**; tables → **above**.
+   - **APA standard ([tables](https://apastyle.apa.org/style-grammar-guidelines/tables-figures/tables)):** table number in **bold** and title in *italic title case*, both **above** the table; notes **below**; horizontal rules only (top, under headings, bottom), no vertical lines.
    - **Tips**
         - When in doubt, follow the **current year’s** official template/author kit for that venue. Some details can change year to year.
 
