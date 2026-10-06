@@ -28,6 +28,29 @@ A curated guide to ML paper writing style guide — structure, style, examples, 
    - **ICLR**: Submission: main text ≤ 9 pages. During discussion & camera-ready: main text limit increases to 10 pages. References do not count; over-limit is desk-rejected. Appendix allowed and unlimited (Same as NeurIPS).
    - **AAAI**: Up to 7 pages of technical content, plus additional pages solely for references (submission). Proceedings allocation remains 7 content pages (+refs). AAAI allows a technical appendix during review, but for camera-ready the supplementary is not included in AAAI’s proceedings. 
 
+## Capitalization Conventions for Titles and Headings
+
+**What the official templates and guides say**
+- [**ACL template (Overleaf)**](https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj): Does not explicitly specify a capitalization style for titles or headings.
+- [**ACL formatting guidelines (ACLPUB)**](https://acl-org.github.io/ACLPUB/formatting.html): The paper title must be in **title case** and not in all caps (except acronyms); author surnames should not be in all caps. **Section-heading capitalization is not explicitly specified.**
+- [**NeurIPS 2026 template (Overleaf)**](https://www.overleaf.com/latex/templates/formatting-instructions-for-neurips-2026/bjdwqfdkyftc): Does not explicitly specify a capitalization style for titles.
+- [**ICML 2025 template (Overleaf)**](https://www.overleaf.com/latex/templates/icml2025-template/dhxrkcgkvnkt): Uses **title case** for the title and section headings.
+
+**Other standard style guides**
+- [**APA heading levels (Purdue OWL)**](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/apa_headings_and_seriation.html): All headings use **title case**; levels differ only by alignment, bold, and italics.
+- [**APA: Sentence case for titles in references**](https://apastyle.apa.org/blog/sentence-case-titles-references): Paper titles in references use **sentence case**; journal names keep title case. *Example:* Attention is all you need
+- [**APA: Title case rules**](https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case): Capitalize major words and any word of **4+ letters**; lowercase short minor words (*a, and, of, in*). *Example:* Learning Transferable Visual Models From Natural Language Supervision
+
+**Key title case rules ([Wikipedia: Title case](https://en.wikipedia.org/wiki/Title_case))**
+- **Always capitalize** the first and last words, plus nouns, pronouns, verbs, adjectives, and adverbs.
+- **Usually lowercase** articles (*a, an, the*) and coordinating conjunctions (*and, but, or, nor*).
+- **Prepositions differ by style**: AP and APA capitalize words of 4+ letters (*With, From, Into*); Chicago and MLA traditionally lowercase all prepositions.
+- **Hyphenated compounds**: Chicago capitalizes both parts (*Self-Supervised*, *Multi-Task*); AP, APA, and MLA lowercase the second part if it is a prefix/suffix.
+- **Infinitive "to"**: Lowercase in Chicago and MLA; capitalized in AP and APA.
+- **Related variants**: *Sentence case* capitalizes only the first word and proper nouns; *start case* capitalizes every word.
+
+> **Tip (ACL, ICML, NeurIPS):** Use one capitalization style consistently, and brace acronyms in BibTeX titles (e.g., `{BERT}`) so they aren't lowercased.
+
 ## Citations and References
 
 **Where to put citations:**
